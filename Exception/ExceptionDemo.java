@@ -8,6 +8,7 @@ public class ExceptionDemo {
             throw new RuntimeException("Sorry you can't vote: ");
         }else{
             System.out.println("you can vote");
+        
         }
     }
 
